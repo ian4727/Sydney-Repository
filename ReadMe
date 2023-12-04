@@ -56,3 +56,4 @@ Viewing Diffs:
 
 git diff: Shows the differences between the working directory and the staging area.
 git diff <commit1> <commit2>: Displays the differences between two commits.it
+
